@@ -1,7 +1,10 @@
+<div align="center">
+    <h1>hi, i'm ömer. a student interested in programming.</h1>
+</div>
 <table>
     <tr>
         <td align="center" valign="top" width="50%">
-            <h2>Technologies I Use</h2>
+            <h2>technologies i use</h2>
             <a href="https://www.arduino.cc">
                 <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino" />
             </a>
@@ -28,7 +31,7 @@
             </a>
         </td>
         <td align="center" valign="top" width="50%">
-            <h2>Connect With Me</h2>
+            <h2>contact with me</h2>
             <a href="https://discord.com/users/349536885749579777">
                 <img src="https://img.shields.io/badge/omercup%231999-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
             </a>
