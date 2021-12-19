@@ -1,5 +1,5 @@
 <div align="center">
-    <h1>hi, i'm ömer. a student interested in programming.</h1>
+    <h2>hi, i'm ömer. a student interested in programming.</h2>
 </div>
 <table>
     <tr>
