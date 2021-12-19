@@ -34,7 +34,7 @@
             <h2>contact with me</h2>
             <a href="https://discord.com/users/349536885749579777">
                 <img src="https://img.shields.io/badge/omercup%231999-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-            </a>
+            </a><br />
             <a href="https://twitter.com/heisomercup">
                 <img src="https://img.shields.io/badge/@heisomercup-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter" />
             </a>
