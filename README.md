@@ -1,5 +1,5 @@
 <div align="center">
-    <h2>hi, i'm ömer. a student interested in programming.</h2>
+    <h1>hi, i'm ömer. a student interested in programming.</h1>
 </div>
 <table>
     <tr>
@@ -21,13 +21,13 @@
                 <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
             </a>
             <a href="https://tailwindcss.com">
-                <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+                <img src="https://img.shields.io/badge/tailwind css-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
             </a>
             <a href="https://www.typescriptlang.org">
                 <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
             </a>
             <a href="https://vuejs.org">
-                <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" alt="Vue.js" />
+                <img src="https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" alt="Vue.js" />
             </a>
         </td>
         <td align="center" valign="top" width="50%">
