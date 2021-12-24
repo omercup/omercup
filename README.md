@@ -8,7 +8,7 @@
         <td align="center" valign="top" width="50%">
             <h3>
 				<samp>
-					┌ technologies i use ┐
+					┌ technologies i use ┐<br />
 					└────────────────────┘
 				</samp>
 			</h3>
@@ -40,7 +40,7 @@
         <td align="center" valign="top" width="50%">
 			<h3>
 				<samp>
-					┌ contact with me ┐
+					┌ contact with me ┐<br />
 					└─────────────────┘
 				</samp>
 			</h3>
