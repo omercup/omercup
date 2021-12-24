@@ -1,6 +1,4 @@
-<div align="center">
-    <h1>hi, i'm ömer. a student interested in programming.</h1>
-</div>
+<h1 align="center">hi, i'm ömer. a student interested in programming.</h1>
 <table>
     <tr>
         <td align="center" valign="top" width="50%">
