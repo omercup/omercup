@@ -39,7 +39,7 @@
         <td align="center" valign="top" width="50%">
 			<h3>
 				<samp>
-					─┤ contact with me ├─
+					──┤ contact with me ├──
 				</samp>
 			</h3>
             <a href="https://discord.com/users/349536885749579777">
