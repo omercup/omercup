@@ -1,6 +1,6 @@
 <h2 align="center">
     <samp>
-    	hi there, i'm ömer! welcome to my profile. 
+    	────┼──┤ hi there, i'm ömer! welcome to my profile. ├──┼────
     </samp>
 </h2>
 <table>
@@ -8,8 +8,7 @@
         <td align="center" valign="top" width="50%">
             <h3>
 				<samp>
-					┌ technologies i use ┐<br />
-					└────────────────────┘
+					──┤ technologies i use ├──
 				</samp>
 			</h3>
             <a href="https://www.arduino.cc">
@@ -40,8 +39,7 @@
         <td align="center" valign="top" width="50%">
 			<h3>
 				<samp>
-					┌ contact with me ┐<br />
-					└─────────────────┘
+					─┤ contact with me ├─
 				</samp>
 			</h3>
             <a href="https://discord.com/users/349536885749579777">
