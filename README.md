@@ -34,7 +34,7 @@
             <a href="https://discord.com/users/349536885749579777">
                 <img alt="Discord" src="https://img.shields.io/badge/omercup%231999-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
             </a><br />
-			<a href="https://discord.com/users/349536885749579777">
+			<a href="https://steamcommunity.com/id/omercup/">
                 <img alt="Steam" src="https://img.shields.io/badge/omercup-000000?style=for-the-badge&logo=steam&logoColor=white" />
             </a><br />
             <a href="https://twitter.com/heisomercup">
