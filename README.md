@@ -1,10 +1,10 @@
 <table>
 	<thead>
 		<th>
-			<h4><samp>──┤ technologies i use ├──</samp></h4>
+			<samp>──┤ technologies i use ├──</samp><br />
 		</th>
 		<th>
-			<h4><samp>──┤ contact with me ├──</samp></h4>
+			<samp>──┤ contact with me ├──</samp><br />
 		</th>
 	</thead>
 	<tbody>
