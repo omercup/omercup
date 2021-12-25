@@ -6,36 +6,36 @@
 	<tbody>
     	<tr><td align="center" valign="top" width="50%">
             <a href="https://www.arduino.cc">
-                <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white" alt="Arduino" />
+                <img alt="Arduino" src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white" />
             </a>
             <a href="https://developer.mozilla.org/docs/Web/CSS">
-                <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white" alt="CSS3" />
+                <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
             </a>
             <a href="https://developer.mozilla.org/docs/Web/HTML">
-                <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white" alt="HTML5" />
+                <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
             </a>
             <a href="https://developer.mozilla.org/docs/Web/JavaScript">
-                <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+                <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E" />
             </a>
             <a href="https://nodejs.org">
-                <img src="https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=node.js&logoColor=white" alt="Node.js" />
+                <img alt="Node.js" src="https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=node.js&logoColor=white" />
             </a>
             <a href="https://tailwindcss.com">
-                <img src="https://img.shields.io/badge/Tailwind CSS-%2338B2AC.svg?style=flat&logo=tailwind css&logoColor=white" alt="Tailwind CSS" />
+                <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind CSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white" />
             </a>
             <a href="https://www.typescriptlang.org">
-                <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
+                <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" />
             </a>
             <a href="https://vuejs.org">
-                <img src="https://img.shields.io/badge/Vue.js-%2335495e.svg?style=flat&logo=vue.js&logoColor=%234FC08D" alt="Vue.js" />
+                <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vue.js&logoColor=4FC08D" />
             </a>
         </td>
         <td align="center" valign="top" width="50%">
             <a href="https://discord.com/users/349536885749579777">
-                <img src="https://img.shields.io/badge/omercup%231999-%237289DA.svg?style=flat&logo=discord&logoColor=white" alt="Discord" />
+                <img alt="Discord" src="https://img.shields.io/badge/omercup%231999-7289DA?style=flat&logo=discord&logoColor=white" />
             </a><br />
             <a href="https://twitter.com/heisomercup">
-                <img src="https://img.shields.io/badge/@heisomercup-%231DA1F2.svg?style=flat&logo=Twitter&logoColor=white" alt="Twitter" />
+                <img alt="Twitter" src="https://img.shields.io/badge/@heisomercup-1DA1F2?style=flat&logo=twitter&logoColor=white" />
             </a>
         </td></tr>
 	</tbody>
