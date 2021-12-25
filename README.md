@@ -1,7 +1,7 @@
 <table>
 	<thead>
-		<th><samp>technologies i use</samp></th>
-		<th><samp>contact with me</samp></th>
+		<th><samp><h3>technologies i use</h3></samp></th>
+		<th><samp><h3>contact with me</h3></samp></th>
 	</thead>
 	<tbody>
     	<tr><td align="center" valign="top" width="50%">
