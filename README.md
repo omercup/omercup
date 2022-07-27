@@ -5,6 +5,12 @@
 			src="https://img.shields.io/badge/omercup%231999-7289DA?style=for-the-badge&logo=discord&logoColor=white"
 		/>
 	</a>
+	<a href="https://www.last.fm/user/omercup">
+		<img
+			alt="Last.fm"
+			src="https://img.shields.io/badge/omercup-D51007?style=for-the-badge&logo=last.fm&logoColor=white"
+		/>
+	</a>
 	<a href="https://steamcommunity.com/id/omercup/">
 		<img
 			alt="Steam"
