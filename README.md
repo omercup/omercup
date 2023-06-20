@@ -2,7 +2,7 @@
 	<a href="https://discord.com/users/349536885749579777">
 		<img
 			alt="Discord"
-			src="https://img.shields.io/badge/omercup%231999-7289DA?style=for-the-badge&logo=discord&logoColor=white"
+			src="https://img.shields.io/badge/omercup-5865F2?style=for-the-badge&logo=discord&logoColor=white"
 		/>
 	</a>
 	<a href="https://www.last.fm/user/omercup">
