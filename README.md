@@ -11,6 +11,12 @@
 			src="https://img.shields.io/badge/omercup-D51007?style=for-the-badge&logo=last.fm&logoColor=white"
 		/>
 	</a>
+	<a href="https://mastodon.social/@omercup">
+		<img
+			alt="Mastodon"
+			src="https://img.shields.io/badge/@omercup-6364FF?style=for-the-badge&logo=mastodon&logoColor=white"
+		/>
+	</a>
 	<a href="https://steamcommunity.com/id/omercup/">
 		<img
 			alt="Steam"
